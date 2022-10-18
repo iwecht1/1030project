@@ -1,2 +1,2 @@
-# 1030project
-Solving for Happiness
+# Data1030Project
+Solving for Happiness 

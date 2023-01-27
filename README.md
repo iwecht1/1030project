@@ -1,7 +1,7 @@
 # Data1030Project
 Solving for Happiness 
 
-This repository holds the source code and final results of the project I created for Data1030, an introductory course to Data Science. This project encompassed the complete development and implementation of a machine learning pipeline. The purpose of this pipeline was to use economic and social data to predict the happiness index of 47 countries overtime. 
+This repository holds the source code and final results of the project I created for Data1030, an introductory course to Data Science. This project encompassed the complete development and implementation of a machine learning pipeline. The purpose of this pipeline was to use economic and social data to predict the happiness index of 47 countries over a 16 year time span. 
 
 The 'figures' directory holds the various graphs and tables that were produced during my exploratory data analysis and hyperparameter tuning excersies. Through a comprehensive review of my data I found which features were most and least correlated with the happiness variable. This analysis helped to tune my approach for developing models that would attempt to predict a country's current happiness index using historical data. 
 
